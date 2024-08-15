@@ -1,0 +1,13 @@
+.header-name {
+    background-color: rgb(255, 153, 0);
+
+}
+
+.burgers {
+    background-color: whitesmoke;
+    justify-content: center;
+    text-align: center;
+    height: 20rem;
+    width: 20rem;
+    flex: content;
+}
