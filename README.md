@@ -19,4 +19,4 @@ Add 2 more burger types to the options already available on the website
   #### Go to this webpage to see how to create a zip file
       https://www.wikihow.com/Make-a-Zip-File
   
-  #### Incase you are unable to create a zip file, simply send the updated index.html file to the email address provided. However, you're encouraged to learn how to create a zip file
+  #### Incase you are unable to create a zip file, simply send the updated index.html file to the email address provided. However, you're encouraged to submit a zip file
