@@ -4,7 +4,7 @@ Add 2 more burger types to the options already available on the website
 
 ### Hints
 - Download repo as a zip file
-   - Tap/click on the green button with 'Code' text on this page
+   - Tap/click on the green button with 'Code' text (you can find it on the main burgerhouse repo page)
    - Choose 'download zip' option
 - Images of burgers are already saved in the images folder, you can use 2 burger images not yet displayed on the website
 - Open 'index.html' file and check the convention by which the first 2 burgers was displayed
@@ -19,4 +19,4 @@ Add 2 more burger types to the options already available on the website
   #### Go to this webpage to see how to create a zip file
       https://www.wikihow.com/Make-a-Zip-File
   
-  #### Incase you are unable to create a zip file, simply send the updated index.html file to the email address provided
+  #### Incase you are unable to create a zip file, simply send the updated index.html file to the email address provided. However, you're encouraged to learn how to create a zip file
