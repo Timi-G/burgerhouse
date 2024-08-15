@@ -9,7 +9,12 @@ Add 2 more burger types to the options already available on the website
 - Images of burgers are already saved in the images folder, you can use 2 burger images not yet displayed on the website
 - Open 'index.html' file and check the convention by which the first 2 burgers was displayed
    - PC: Open with VSCode or any text editor like Notepad
-   - Mobile: Download App 'HTML Editor' from mobile store and open file with downloaded app
+   - Mobile:
+      - Download App 'Replit' from mobile app store
+      - Create new account if you don't have already
+      - Choose option '+create' to create a new project
+      - import github url
+          https://github.com/Timi-G/burgerhouse
 - Follow the same steps the html instructions for the first 2 burgers was written to add your own burger options
 - Save the now updated 'index.html' file
 - Save the updated 'Burger House' folder as a zip file and send the file to the email address provided below
