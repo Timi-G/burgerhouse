@@ -12,7 +12,7 @@ Add 2 more burger types to the options already available on the website
    - Android Mobile:
       - Download App 'TrebEdit' from mobile app store
       - Ensure to give app access to your folders
-      - Tap button '+add' on lower left to work on a project
+      - Tap button '+add' on lower right to work on a project
       - Import the 'index.html' file from Burger House folder
 - Follow the same steps the html instructions for the first 2 burgers was written to add your own burger options
 - Save the now updated 'index.html' file
