@@ -1,6 +1,8 @@
 ## Summer Class Assignment
 ### Instructions
-Add 2 more burger types to the options already available on the website
+- Edit the title of website to include your name
+-        e.g. [your_name]'s Burger House.
+- Add 2 more burger types to the options already available on the website
 
 ### Hints
 - Download repo as a zip file
