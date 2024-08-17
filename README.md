@@ -13,7 +13,7 @@
 - Images of burgers are already saved in the images folder, you can use 2 burger images not yet displayed on the website (https://timi-g.github.io/burgerhouse/)
   
 - Open 'index.html' file and check the convention by which the html instructions for the first 2 burgers was written
-   - PC: Open with VSCode or any text editor like Notepad
+   - PC: Open the 'index.html' file with VSCode or any text editor like Notepad
    - Android Mobile:
       - Download App 'TrebEdit' from mobile app store
       - Ensure to give app access to your folders
