@@ -10,7 +10,8 @@
 - Download repo as a zip file
    - Tap/click on the green button with 'Code' text (you can find it on the main burgerhouse repo page)
    - Choose 'download zip' option
-- Images of burgers are already saved in the images folder, you can use 2 burger images not yet displayed on the website
+- Images of burgers are already saved in the images folder, you can use 2 burger images not yet displayed on the website (https://timi-g.github.io/burgerhouse/)
+  
 - Open 'index.html' file and check the convention by which the first 2 burgers was displayed
    - PC: Open with VSCode or any text editor like Notepad
    - Android Mobile:
